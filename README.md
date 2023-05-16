@@ -1,11 +1,11 @@
 # SignLanguageRecognition
 The Sign Language Recognition (SLR) project is an innovative and impactful endeavor aimed at leveraging machine learning techniques to bridge the communication gap between individuals who use sign language and those who may not understand it. By developing a robust sign language recognition system, this project aims to enhance accessibility and inclusivity for individuals with hearing impairments or those who rely on sign language for communication.
 
-Project Overview
+<h2>Project Overview</h2><br>
 The SLR project focuses on training a machine learning model to recognize and interpret sign language gestures accurately. The model is trained using a diverse dataset consisting of images capturing various sign gestures, including A, B, C, D, E, F, BestOfLuck, and iLoveYou. By meticulously analyzing and learning from these training examples, the model becomes proficient in identifying the unique visual patterns and characteristics associated with each sign gesture.
 
-Key Features
-Gesture Recognition: The SLR model is capable of accurately recognizing and classifying sign language gestures based on input images. It can identify the signs for A, B, C, D, E, F, BestOfLuck, and iLoveYou with a high degree of precision.
+<h2>Key Features</h2><br>
+<b>Gesture Recognition:</b> The SLR model is capable of accurately recognizing and classifying sign language gestures based on input images. It can identify the signs for A, B, C, D, E, F, BestOfLuck, and iLoveYou with a high degree of precision.
 
 Machine Learning Techniques: The project employs state-of-the-art machine learning techniques, such as convolutional neural networks (CNNs), to train the model effectively. CNNs excel at image classification tasks and have been extensively utilized in computer vision applications.
 
