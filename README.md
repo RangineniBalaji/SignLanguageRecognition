@@ -1,6 +1,12 @@
 # SignLanguageRecognition
 The Sign Language Recognition (SLR) project is an innovative and impactful endeavor aimed at leveraging machine learning techniques to bridge the communication gap between individuals who use sign language and those who may not understand it. By developing a robust sign language recognition system, this project aims to enhance accessibility and inclusivity for individuals with hearing impairments or those who rely on sign language for communication.
 <br>
+
+<pre>
+pip install requirements.txt
+python3 app.py
+</pre>
+
 <h2>Project Overview</h2>
 The SLR project focuses on training a machine learning model to recognize and interpret sign language gestures accurately. The model is trained using a diverse dataset consisting of images capturing various sign gestures, including A, B, C, D, E, F, BestOfLuck, and iLoveYou. By meticulously analyzing and learning from these training examples, the model becomes proficient in identifying the unique visual patterns and characteristics associated with each sign gesture.<br>
 
@@ -18,3 +24,8 @@ To utilize the SLR model, you can clone this repository and follow the instructi
 Contributions to the SLR project are welcomed and encouraged. Whether it involves expanding the sign language gesture recognition capabilities, improving the model's accuracy, or adding support for additional sign gestures, your contributions can have a profound impact on the accessibility and usability of the system.
 
 In the future, the project can be further enhanced by incorporating real-time sign language recognition, developing user-friendly interfaces, and exploring additional techniques to improve performance and expand the range of supported sign gestures.
+
+<h2>Contact Information</h2>
+If you have any questions, suggestions, or would like to contribute to the project, please feel free to reach out to us. You can contact the project team at balajinaidu501@gmail.com <br> We appreciate your interest and look forward to your involvement in this impactful initiative.
+
+Let's empower individuals with hearing impairments through the power of sign language recognition!
