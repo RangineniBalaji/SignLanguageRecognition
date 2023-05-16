@@ -5,11 +5,11 @@ The Sign Language Recognition (SLR) project is an innovative and impactful endea
 The SLR project focuses on training a machine learning model to recognize and interpret sign language gestures accurately. The model is trained using a diverse dataset consisting of images capturing various sign gestures, including A, B, C, D, E, F, BestOfLuck, and iLoveYou. By meticulously analyzing and learning from these training examples, the model becomes proficient in identifying the unique visual patterns and characteristics associated with each sign gesture.<br>
 
 <h2>Key Features</h2>
-<h3>Gesture Recognition:</h3> The SLR model is capable of accurately recognizing and classifying sign language gestures based on input images. It can identify the signs for A, B, C, D, E, F, BestOfLuck, and iLoveYou with a high degree of precision.
+<h4>Gesture Recognition:</h4> The SLR model is capable of accurately recognizing and classifying sign language gestures based on input images. It can identify the signs for A, B, C, D, E, F, BestOfLuck, and iLoveYou with a high degree of precision.
 
-<h3>Machine Learning Techniques:</h3> The project employs state-of-the-art machine learning techniques, such as convolutional neural networks (CNNs), to train the model effectively. CNNs excel at image classification tasks and have been extensively utilized in computer vision applications.
+<h4>Machine Learning Techniques:</h4> The project employs state-of-the-art machine learning techniques, such as convolutional neural networks (CNNs), to train the model effectively. CNNs excel at image classification tasks and have been extensively utilized in computer vision applications.
 
-<h3>Accessible Communication:</h3> By providing a reliable means of interpreting sign language gestures, the SLR project aims to facilitate communication between individuals who use sign language and those who may not understand it. This technology can potentially be integrated into various assistive devices, applications, or platforms to empower individuals with hearing impairments.
+<h4>Accessible Communication:</h4> By providing a reliable means of interpreting sign language gestures, the SLR project aims to facilitate communication between individuals who use sign language and those who may not understand it. This technology can potentially be integrated into various assistive devices, applications, or platforms to empower individuals with hearing impairments.
 
 <h2>Usage and Deployment</h2>
 To utilize the SLR model, you can clone this repository and follow the instructions provided in the project documentation. The repository contains the necessary code, datasets, and pre-trained models required for training, testing, and deploying the SLR system. Additionally, detailed instructions and examples are included to guide you through the setup and usage process.
